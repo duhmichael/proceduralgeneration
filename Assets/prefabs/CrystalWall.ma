@@ -1,6 +1,6 @@
 //Maya ASCII 2016 scene
 //Name: CrystalWall.ma
-//Last modified: Tue, Oct 27, 2015 09:33:03 AM
+//Last modified: Tue, Oct 27, 2015 10:58:19 AM
 //Codeset: 1252
 requires maya "2016";
 currentUnit -l centimeter -a degree -t film;
